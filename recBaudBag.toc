@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: recBaudBag
+## Author: Recluse, Baudzila, Maintained by Suddendeath2000
+## Notes: Recluse's stripped down Baud Bag
+
+recBaudBag.xml

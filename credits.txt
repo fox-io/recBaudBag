@@ -1,0 +1,3 @@
+This is a heavily modified version of Baud Bag.
+
+Support is provided by the compilation's author and not by the author(s) of the individual addons.
